@@ -21,3 +21,9 @@ for i in range(0,5):
 # range(start, stop, step)
 for i in range(0,15,3):
    print(i)
+
+# Looping through data array
+furit = ['apple', 'mango', 'pear', 'grapes', 'bananna', 'pineapple']
+
+for f in fruits:
+   print(fruits)
