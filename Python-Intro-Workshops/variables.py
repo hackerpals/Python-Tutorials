@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 '''
 Python Variables
 Hasib Sarvari, 2017

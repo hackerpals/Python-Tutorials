@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 '''
 Given a message, convert it into 1337
 '''
