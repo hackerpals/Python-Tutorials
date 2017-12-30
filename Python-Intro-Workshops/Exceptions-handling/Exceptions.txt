@@ -1,0 +1,7 @@
+Exception Name & Description
+
+StopIteration -- Raised when the next() method of an itertator does not point to any object
+
+SystemExit -- Raised by the sys.exit() function.
+
+StandardError -- Base class for a ll built-in exceptions except StopIteration and SystemExit
