@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 
+#Crate an empty class 
 class Person(): 
     pass
 

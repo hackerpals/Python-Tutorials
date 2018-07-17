@@ -6,6 +6,7 @@ class Cat():
     def __init__(self, name): 
         self.name = name
 
+# pass an attribute to an instance object
 missy = Cat('Missy')
 lucky = Cat('Lucky')
 

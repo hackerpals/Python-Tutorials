@@ -10,6 +10,6 @@ for i in range(1,29):
 '''
 
 # Normal Numbers
-for i in range(1,20):
+for i in range(1,18):
     numbers = random.sample(range(1,45), 7)
-    print(i ," : ", numbers)
+    print(i ," : ", sorted(numbers))
