@@ -1,6 +1,6 @@
 import random #Imports the random module
 
-RandNum = random.randint(1,100)
+RandNum = random.randint(1,10)
 guess = 'Guess A Number between 1 and 100: ' # Craete a string
 
 while True:
